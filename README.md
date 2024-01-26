@@ -1,1 +1,3 @@
 # EMOSENSE
+
+Driven by the potential of AI to understand human emotions, I embarked on a project to develop a high-performing emotion detection model for a cross-platform mobile application called EMOSENSE. I experimented with various machine learning algorithms and ultimately built a model that achieved 100% accuracy, surpassing all others in its ability to recognize happy & sad emotions accurately. This project challenged me to push the boundaries of AI and provided a glimpse into the future of human-computer interaction and its potential to revolutionize how we understand and interact with each other.
