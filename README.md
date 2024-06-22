@@ -1,3 +1,21 @@
-# EMOSENSE
+# EMOSENSE: Emotion Detection Application
 
-Driven by the potential of AI to understand human emotions, I embarked on a project to develop a high-performing emotion detection model for a cross-platform mobile application called EMOSENSE. I experimented with various machine learning algorithms and ultimately built a model that achieved 100% accuracy, surpassing all others in its ability to recognize happy & sad emotions accurately. This project challenged me to push the boundaries of AI and provided a glimpse into the future of human-computer interaction and its potential to revolutionize how we understand and interact with each other.
+## Overview
+EMOSENSE is an innovative cross-platform application designed to detect human emotions in real-time using camera input. The application leverages advanced machine learning algorithms and is developed using Flutter and TensorFlow Lite.
+
+## Features
+- Real-time emotion detection
+- Secure user authentication with Google
+- Cross-platform compatibility (iOS and Android)
+- User-friendly interface
+
+## Technologies Used
+- Flutter
+- TensorFlow Lite
+- Python
+- Android Studio
+
+## How to Run
+1. Clone the repository:
+   ```sh
+   https://github.com/yourusername/EMOSENSE-Emotion-Detection.git
