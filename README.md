@@ -18,4 +18,4 @@ EMOSENSE is an innovative cross-platform application designed to detect human em
 ## How to Run
 1. Clone the repository:
    ```sh
-   https://github.com/yourusername/EMOSENSE-Emotion-Detection.git
+   https://github.com/tanvirshikdar/EMOSENSE-Emotion-Detection.git
